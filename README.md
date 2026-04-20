@@ -9,7 +9,7 @@
 - **One-Click Cloud Models:** Access GPT-OSS (120B), Qwen 3.5 (122B), and more without local downloads.
 - **Smart Server Management:** Automatically detects and starts the Ollama server if it's not running.
 - **Visual & Animated:** Beautiful terminal animations and color-coded UI.
-- **Lightweight:** Zero dependencies other than Ollama.
+- **Lightweight:** Pure Bash script, zero dependencies other than Ollama.
 
 ## 🛠️ Installation
 1. Ensure [Ollama](https://ollama.com) is installed.
@@ -39,4 +39,3 @@ If you find **loma** useful and want to support its development, feel free to bu
 
 ---
 *Created by mUk66*
-![UI](copilot_image_1776208948991.jpeg)
