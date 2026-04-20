@@ -32,6 +32,11 @@ Run the launcher:
 ## 🧠 Wise Man Said
 > *"With Great Power, Comes Great Compute..."*
 
+## ☕ Support the Project
+If you find **loma** useful and want to support its development, feel free to buy me a coffee!
+
+*(QR Code Placeholder - coming soon)*
+
 ---
 *Created by mUk66*
 ![UI](copilot_image_1776208948991.jpeg)
