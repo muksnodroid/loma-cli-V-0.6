@@ -35,7 +35,9 @@ Run the launcher:
 ## ☕ Support the Project
 If you find **loma** useful and want to support its development, feel free to buy me a coffee!
 
-*(QR Code Placeholder - coming soon)*
+https://ipn.eg/S/a7medmuks66/instapay/5Lh3Jk
+Click the link to send money to
+a7medmuks66@instapay
 
 ---
 *Created by mUk66*
