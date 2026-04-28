@@ -35,9 +35,7 @@ Run the launcher:
 ## ☕ Support the Project
 If you find **loma** useful and want to support its development, feel free to buy me a coffee!
 
-https://ipn.eg/S/a7medmuks66/instapay/5Lh3Jk
-Click the link to send money to
-a7medmuks66@instapay
 
+[![QR Code](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)](https://github.com/muksnodroid/loma-cli-V-0.6)
 ---
-*Created by mUk66*
+*Created by mUk66 ©2026*
